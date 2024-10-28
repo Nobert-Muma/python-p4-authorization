@@ -1,4 +1,4 @@
-# Authorizing Requests
+# Authorizing Requests.
 
 ## Learning Goals
 
